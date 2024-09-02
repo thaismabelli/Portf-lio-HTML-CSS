@@ -7,9 +7,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="Portfólio Thais" src="./assets/fotocapa.png" width="100%">
-</p>
+
 
 
 ## 🚀 Tecnologias
