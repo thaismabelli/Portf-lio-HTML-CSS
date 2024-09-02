@@ -7,7 +7,9 @@
 
 <br>
 
-
+<p align="center">
+  <img alt="Portfólio" src="./assets/fotocapa.png" width="100%">
+</p>
 
 
 ## 🚀 Tecnologias
